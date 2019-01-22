@@ -1,5 +1,4 @@
 # RPM Spec Files for Popular Neuroimaging Suites
-===============
 
 ## Description
 
